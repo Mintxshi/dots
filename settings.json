@@ -1,0 +1,52 @@
+{
+    "workbench.colorTheme": "Wal Bordered",
+    "editor.fontLigatures": false,
+    "editor.fontWeight": "normal",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.confirmOnExit": "always",
+    "terminal.integrated.fontSize": 10,
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.productIconTheme": "material-product-icons",
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.exclude": {
+        "**/.DS_Store": false,
+        "**/.git": false,
+        "**/.hg": false,
+        "**/.svn": false,
+        "**/CVS": false,
+        "**/Thumbs.db": false
+    },
+    "svelte.enable-ts-plugin": true,
+    "tabnine.experimentalAutoImports": true,
+    "npm.keybindingsChangedWarningShown": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontFamily": "'FuraMono Nerd Font'",
+    "terminal.integrated.fontFamily": "'FuraMono Nerd Font'",
+    "terminal.fontFamily": "'FuraMono Nerd Font Mono'",
+    "terminal.font": "'FuraMono Nerd Font Mono'",
+    "terminal.integrated.font": "'FuraMono Nerd Font Mono'",
+    //"Terminal.fon"
+    "terminal.integrated.customGlyphs": true,
+    "catppuccin.accentColor":"peach" ,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#f66f3f",
+        "statusBar.foreground": "#181926",
+        "statusBar.debuggingBackground": "#f66f3f"
+    },
+    "markdown.preview.fontFamily": "FuraMono Nerd Font",
+    "debug.console.fontFamily": "FuraMono Nerd Font",
+    "scm.inputFontFamily": "FuraMono Nerd Font",
+    "explorer.confirmDelete": false,
+    "zenMode.fullScreen": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "zenMode.hideTabs": false,
+    "zenMode.centerLayout": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideStatusBar": false,
+    "window.commandCenter": false
+
+}
